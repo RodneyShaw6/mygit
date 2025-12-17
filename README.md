@@ -22,7 +22,7 @@ A fun and challenging Flappy Bird game built with HTML5 Canvas and JavaScript!
 
 ### Controls
 
-- **SPACE** or **CLICK**: Make the bird flap/jump
+- **SPACE** or **ENTER** or **CLICK**: Make the bird flap/jump
 - The bird will fall due to gravity - keep flapping to stay airborne!
 
 ### Tips
